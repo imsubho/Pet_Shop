@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+div a{
+    background-color: #ebe3e3;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    color: black;
+    font-weight: 600;
+}
